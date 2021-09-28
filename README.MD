@@ -26,7 +26,7 @@ https://patelpr03.github.io/Code-Quiz/
 # screenshot : 
    ![Code-Quiz](./assets/Coding-Quiz-Challenge.jpg)
    ![Code-Quiz](./assets/Question.jpg)
-   ![Code-quiz](./assets/Highscores.jpg.jpg)
+   ![Code-quiz](./assets/Highscores.jpg)
 # Demo
     web-apis-homework-demo.gif
 
