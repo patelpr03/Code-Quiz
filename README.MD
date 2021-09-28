@@ -7,6 +7,11 @@
 •	Show remaining time in seconds.
 •	Your score will be displayed at the end.
 
+# User Story
+   AS A coding bootcamp student
+   I WANT to take a timed quiz on JavaScript Basic that stores high scores.
+   I can how many answers is right 
+
 # Code
 •	HTML
 •	CSS
@@ -17,9 +22,11 @@
  git@github.com:patelpr03/Code-Quiz.git
 
  # link to deployed application
-
+https://patelpr03.github.io/Code-Quiz/
 # screenshot : 
-   outcome-image.png
+   ![Code-Quiz](./assets/Coding Quiz Challenge.jpg)
+   ![Code-Quiz](./assets/Question.jpg)
+   ![Code-quiz](./Highscores.jpg)
 # Demo
     web-apis-homework-demo.gif
 

@@ -78,7 +78,8 @@ function getQuestion() {
 }
 
 function questionClick(answerChoice) {
-    
+  console.log(answerChoice.textContent)
+  console.log(questions[currentQuestionIndex].answer)
   if(answerChoice.textContent != questions[currentQuestionIndex].answer){
     
     time -= 10;
