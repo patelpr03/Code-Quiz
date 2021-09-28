@@ -24,9 +24,9 @@
  # link to deployed application
 https://patelpr03.github.io/Code-Quiz/
 # screenshot : 
-   ![Code-Quiz](./assets/Coding Quiz Challenge.jpg)
+   ![Code-Quiz](./assets/Coding-Quiz-Challenge.jpg)
    ![Code-Quiz](./assets/Question.jpg)
-   ![Code-quiz](./Highscores.jpg)
+   ![Code-quiz](./assets/Highscores.jpg.jpg)
 # Demo
     web-apis-homework-demo.gif
 
