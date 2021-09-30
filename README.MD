@@ -28,7 +28,7 @@ https://patelpr03.github.io/Code-Quiz/
    ![Code-Quiz](./assets/Question.jpg)
    ![Code-quiz](./assets/Highscores.jpg)
 # Demo
-    web-apis-homework-demo.gif
+    ![Demo](web-apis-homework-demo.gif)
 
 # Others Contributors:
    Andres Long
