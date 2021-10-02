@@ -19,7 +19,7 @@
 •	JSON
 
 # Github:
- git@github.com:patelpr03/Code-Quiz.git
+ https://github.com/patelpr03/Code-Quiz
 
  # link to deployed application
 https://patelpr03.github.io/Code-Quiz/
